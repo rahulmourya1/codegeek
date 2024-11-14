@@ -1,60 +1,54 @@
-# E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
+# Codegeek: E-Learning Website
 
-![E-Learning Website](preview.jpg)
+![image](https://github.com/user-attachments/assets/2151bafb-78bd-44ca-acdb-0e8945932666)
 
-The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
+Codegeek is an e-learning website built with HTML5, CSS3, Bootstrap 5, and JavaScript. It offers a user-friendly and responsive platform for learners to access educational content and embark on engaging learning journeys.
 
+![screencapture-127-0-0-1-5501-courses-html-2024-11-14-18_56_53](https://github.com/user-attachments/assets/d397e915-916c-479b-a075-9ab3a14e8853)
 
-## Introduction
-
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
-
-## Features
-
-- Responsive design using Bootstrap 5.
-- Structured course catalog with detailed descriptions.
-- Interactive lessons.
-- User can register and login.
-- User authentication for personalized learning experiences.
-- Instructor application form.
-- User can also contact us.
-
-## Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have the following prerequisites:
-
-- Web browser (e.g., Chrome, Firefox, Safari)
-- Text editor (e.g., Visual Studio Code, Sublime Text)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
-
-2. Open the project in your preferred text editor.
-3. Launch the `index.html` file in a web browser.
-
-## Technologies Used
-
-- HTML
-- CSS
-- Bootstrap 5
-- JavaScript
-
-📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
-
-## Contributing 
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
-
-## Show your support 
-
-Give a ⭐️ if you like this project!
+![screencapture-127-0-0-1-5501-testimonial-html-2024-11-14-19_00_17](https://github.com/user-attachments/assets/3deff979-07cb-4fd9-b271-93d273db9038)
 
 
-## License
+# Introduction
+Codegeek provides a dynamic and interactive learning experience through its combination of modern web technologies. The website caters to learners of all levels, empowering them to explore and acquire new skills.
 
-This project is **free to use** and does not contains any license.
+# Features
+Responsive Design: Codegeek adapts flawlessly to all devices thanks to Bootstrap 5, ensuring a seamless learning experience on desktops, tablets, and mobiles.
+Structured Course Catalog: Explore a well-organized catalog of courses with detailed descriptions to find the perfect learning path for your needs.
+Interactive Lessons: Delve into engaging lessons that encourage active participation and knowledge retention.
+User Authentication: Register and log in to personalize your learning journey. Track your progress, access exclusive content, and create a tailored learning experience.
+Instructor Application: Aspiring instructors can apply to share their knowledge and expertise with the Codegeek community.
+Contact Us: Reach out to our team with any questions or feedback you may have.
+Getting Started
+Prerequisites
+Before embarking on your learning adventure with Codegeek, ensure you have the following:
+
+Web Browser: Chrome, Firefox, Safari, or any other modern browser.
+Text Editor: Visual Studio Code, or your preferred code editor.
+# Installation
+Clone the Repository:
+
+Bash
+git clone https://github.com/rahulmourya1/codegeek.git
+
+
+
+
+Open the Project: Launch the project directory in your preferred text editor.
+
+Run the Website: Open index.html in your web browser to experience Codegeek.
+
+# Technologies Used
+-HTML5: The foundation for structuring website content.
+
+-CSS3: Adds style and visual appeal to the website.
+
+-Bootstrap 5: A powerful framework for creating responsive and mobile-friendly layouts.
+
+-JavaScript: Enhances interactivity and user experience.
+
+Contributing
+-We welcome contributions, bug reports, and feature requests from the developer community! Feel free to explore the issues page and join us in making Codegeek an even better learning platform.
+
+Show Your Support
+If you find Codegeek valuable, give it a star (⭐️) on GitHub!
